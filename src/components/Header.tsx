@@ -50,7 +50,7 @@ const Header: React.FC = () => {
     }`}>
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <img src="/logo.png" alt="UniteWB Logo" className="h-10 w-auto mr-4" />
+          <img src="./logo.png" alt="UniteWB Logo" className="h-10 w-auto mr-4" />
           <h1 className="text-xl md:text-2xl font-bold text-unite-orange">UniteWB</h1>
         </div>
         
